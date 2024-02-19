@@ -1,0 +1,10 @@
+
+ {
+  "appId": "io.ionic.starter",
+  "appName": "FastFoodApp",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
+
